@@ -406,3 +406,41 @@ footer p {
   width: 100%;
   object-fit: cover;
 }
+
+.container-section {
+  padding-top: 36px;
+  padding-bottom: 36px;
+  text-align: center;
+} 
+
+#services-intro1 {
+  background-image:
+    linear-gradient(rgba(5, 5, 5, 0.45), rgba(5, 5, 5, 0.45)),
+    url("images/int-backgroundpics.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: #fff;
+  padding: 60px 20px;
+}
+#services-intro2 {
+  background-image:
+    linear-gradient(rgba(5, 5, 5, 0.45), rgba(5, 5, 5, 0.45)),
+    url("images/ext-background.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: #fff;
+  padding: 60px 20px;
+}
+#services-intro3 {
+  background-image:
+    linear-gradient(rgba(5, 5, 5, 0.45), rgba(5, 5, 5, 0.45)),
+    url("images/design-wallpaper-backgroung.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: #fff;
+  padding: 60px 20px;
+}
+
