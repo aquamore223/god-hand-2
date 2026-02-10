@@ -444,3 +444,11 @@ footer p {
   padding: 60px 20px;
 }
 
+#serve {
+  background: var(--glass);
+  padding: 20px;
+  border-radius: 12px;
+  border: 1px solid rgba(255, 255, 255, 0.03);
+  margin: 40px auto 20px;
+  width: fit-content;
+}
